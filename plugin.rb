@@ -1,6 +1,6 @@
 # name: vietnamese-discourse-slug
 # about: A Discourse Custom slug generation for Vietnamese
-# version: 1.0
+# version: 1.1
 # authors: MinhVN
 # url: https://github.com/minhvn/vietnamese-discourse-slug
 
